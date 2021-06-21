@@ -1,6 +1,9 @@
 ## NOTE
 Due to file sizes uncompress all zip files on this repo and also please check the public folders and sub-folders and uncompress the files
 
+## SQL
+Make a request for the sql files as they are currently private.
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
