@@ -1,3 +1,6 @@
+#NOTE
+Due to file sizes uncompress all zip files on this repo and also please check the public folders and sub-folders and uncompress the files
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
